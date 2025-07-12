@@ -9,13 +9,11 @@ url: "https://blog.moneybay.app" # the base hostname & protocol for your site, e
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: MoneyBay Team # add your name
+author: MoneyBay Blog # add your name
 author-img: moneybay-logo.jpg # add your photo
 about-author: MoneyBay - Ứng dụng quản lý tài chính cá nhân thông minh, giúp bạn theo dõi chi tiêu, lập ngân sách, tiết kiệm và đầu tư hiệu quả. Đạt được tự do tài chính với MoneyBay. # add description
 social-twitter: moneybayapp # add your Twitter handle
 social-facebook: moneybay.app # add your Facebook handle
-# social-github: moneybay # add your Github handle
-# social-linkedin: moneybay-app # add your Linkedin handle
 social-email: vutas.studio@gmail.com # add your Email address
 
 # Disqus
